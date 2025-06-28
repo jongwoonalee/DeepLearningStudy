@@ -1,3 +1,9 @@
+---
+layout: default
+title: DA-MIL Study Notes
+---
+
+
 # 🧠 Deep Learning Study Notes
 
 Welcome to my personal deep learning study repository!  
